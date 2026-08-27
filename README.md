@@ -40,15 +40,6 @@ validation and clinically oriented research.
 - Personal website: https://bsky.app/profile/charliezhiangcheng.bsky.social
 - Email: chengzhiang0306@gmail.com
 
-## 📊 Photography sharing
-
-<p align="center">
-  <img
-    src="./曙光.jpg"
-    alt="Windmill and Wind"
-  />
-</p>
-
 
 <p align="center">
   <img src="./doraemon.svg" alt="Doraemon" width="900">
