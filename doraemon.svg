@@ -23,9 +23,9 @@
   <rect width="900" height="360" fill="#FFFFFF"/>
 
   <g fill="#181818" font-size="28" text-anchor="middle" class="mono">
-    <text x="450" y="78">┌───────────────────┐</text>
-    <text x="450" y="116">│ 先搞点垃圾出来吧 │</text>
-    <text x="450" y="154">└─────────┬─────────┘</text>
+    <text x="450" y="78"> ┌──────────────────────────────────┐</text>
+    <text x="450" y="116">│  Let's make something brilliant! │</text>
+    <text x="450" y="154">└──────────────────────────────────┘</text>
   </g>
 
   <!-- Cute chibi Doraemon -->
@@ -108,7 +108,4 @@
     </path>
   </g>
 
-  <text x="450" y="330" fill="#777777" font-size="21" text-anchor="middle" class="sans">
-    全平台账号：<tspan fill="#181818" font-weight="650">躺在废墟里</tspan>
-  </text>
 </svg>
