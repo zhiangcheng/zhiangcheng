@@ -21,8 +21,8 @@ experimentation, and clinical biospecimen processing. This multidisciplinary
 background enables me to connect data-driven discoveries with experimental
 validation and clinically oriented research.
 
-- 🔭 Current interests: integrated pathogenic scoring, multimorbidity, and cognition
-- 🧬 Methods: GWAS, genomic structural equation modelling, and statistical genetics
+- 🔭 Research interests: genetic architecture and molecular mechanisms of complex diseases, neurobiology, and developmental biology
+- 🧬 Methods: biostatistics, statistical genetics, and multi-omics integration
 - 💻 Tools: R, Python, Stata, and reproducible data-analysis workflows
 - 💬 Communicate with me: genomics, proteomics, multi-omics, and population health
 
