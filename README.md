@@ -6,9 +6,8 @@ I'm Zhi'ang Cheng.
 
 My research focuses on neuroscience, ophthalmology, and other diseases with
 substantial genetic components. I investigate the molecular mechanisms
-underlying these conditions through integrative multi-omics analyses, spanning
-genomics, proteomics, single-cell transcriptomics, spatial transcriptomics,
-and metabolomics.
+underlying these conditions through integrative multi-omics analyses, including
+genomics, proteomics, transcriptomics, and metabolomics.
 
 I combine statistical and machine-learning approaches with biological and
 clinical knowledge to uncover disease-associated mechanisms, identify
