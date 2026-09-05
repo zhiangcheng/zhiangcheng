@@ -21,14 +21,14 @@ experimentation, and clinical biospecimen processing. This multidisciplinary
 background enables me to connect data-driven discoveries with experimental
 validation and clinically oriented research.
 
-- 🔭 Research interests: genetic architecture and molecular mechanisms of complex diseases, neurobiology, and developmental biology
+- 🔭 Research interests: genetic architecture and molecular mechanisms, neurobiology, and single-cell/spatial multi-omics
 - 🧬 Methods: biostatistics, statistical genetics, and multi-omics integration
 - 💻 Tools: R, Python, Stata, and reproducible data-analysis workflows
 - 💬 Communicate with me: genomics, proteomics, multi-omics, and population health
 
 ## 💻 Selected projects
 
-1. [Integrated Pathogenic Scoring](https://github.com/zhiangcheng/Integrated_pathogenic_scoring)  
+1. [STAGE-AD Transformer](https://github.com/zhiangcheng/STAGE-AD-Transformer.git)  
    An integrated framework for evaluating pathogenic or disease-related effects.
 
 2. [Chronic Disease and Cognition](https://github.com/zhiangcheng/chronic_disease_and_cognition)  
